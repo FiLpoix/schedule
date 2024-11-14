@@ -18,8 +18,8 @@ body {
 
 .sidebar {
     width: 250px;
-    background-color: #333;
-    color: #fff;
+    background-color: #56D3D5;
+    color: #333;
     padding: 20px;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 .sidebar ul li a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
     font-weight: bold;
     display: block;
@@ -46,7 +46,7 @@ body {
 }
 
 .sidebar ul li a:hover {
-    background-color: #555;
+    background-color: #6bd7d9;
 }
 
 .main-content {
